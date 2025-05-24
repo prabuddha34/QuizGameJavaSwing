@@ -33,4 +33,4 @@ Test your general knowledge with 5 multiple-choice questions and get your score 
 
  **Clone the repository**
    ```bash
-   git clone https://github.com/prabuddha34/quiz-app.git
+   git clone https://github.com/prabuddha34/QuizGameJavaSwing
